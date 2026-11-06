@@ -1,0 +1,6 @@
+{
+  "name": "S Perfect Pharmacy",
+  "description": "Study hub for B.Pharm and D.Pharm students inspired by Imperfect Pharmacy. Download and view semester-wise notes, previous year question papers, syllabus, and study materials with owner content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
